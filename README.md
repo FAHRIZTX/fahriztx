@@ -21,7 +21,7 @@
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/fahriztx" alt="Github Metrics">
+<img width="500" src="https://metrics.lecoq.io/fahriztx?template=classic&config.timezone=Asia%2FJakarta" alt="Github Metrics">
   
 <br>
 
