@@ -19,7 +19,7 @@
 
 <p align="center">
 
-<img width="500" src="https://metrics.lecoq.io/fahriztx?template=classic&config.timezone=Asia%2FJakarta" alt="Github Metrics">
+![](https://metrics.lecoq.io/fahriztx?template=classic&config.timezone=Asia%2FJakarta)
   
 <br>
 
