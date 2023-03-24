@@ -17,10 +17,7 @@
 
 <br><br>
 
-<p align="center">
-![](https://metrics.lecoq.io/fahriztx?template=classic&config.timezone=Asia%2FJakarta)
-<br>
-</p>
+<p align="center"><img src="https://metrics.lecoq.io/fahriztx?template=classic&config.timezone=Asia%2FJakarta" width="500" alt=Metrics/></p>
 
 <br>
 
