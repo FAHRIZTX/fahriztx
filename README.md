@@ -18,11 +18,8 @@
 <br><br>
 
 <p align="center">
-
 ![](https://metrics.lecoq.io/fahriztx?template=classic&config.timezone=Asia%2FJakarta)
-  
 <br>
-
 </p>
 
 <br>
