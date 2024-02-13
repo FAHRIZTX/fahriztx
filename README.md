@@ -1,9 +1,8 @@
 <h3 align="center">Hi, Everyone 👋</h3>
-<br>
 
 <p align="center">
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg alt=php width="30" height="30"/>
-  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg alt=laravel width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg alt=laravel width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg alt=javascript width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg alt=vuejs width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
@@ -17,14 +16,17 @@
 
 <br><br>
 
-<p align="center"><img src="https://metrics.lecoq.io/fahriztx?template=classic&config.timezone=Asia%2FJakarta" width="500" alt=Metrics/></p>
-
-<br>
 
 |![](https://github-readme-stats.vercel.app/api?username=fahriztx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriztx&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
-![](https://activity-graph.herokuapp.com/graph?username=fahriztx&theme=redical)
+<h2>Get in touch </h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/fahriztx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad Fahri-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/fahriztx_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fahriztx_-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/fahriztx_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-fahriztx_-blue?style=flat-square&logo=twitter"></a>
+</p>
 
 <br>
 <p align="center"><p align="center"> <img src="https://komarev.com/ghpvc/?username=fahriztx" alt="blueedge"/> </p>  </p>
