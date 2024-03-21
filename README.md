@@ -13,11 +13,14 @@
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
 </p>
+<p align="center">
+<a href="https://trakteer.id/fahriztx/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
+</p>
 
 <br><br>
 
 
-|![](https://github-readme-stats.vercel.app/api?username=fahriztx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriztx&layout=compact&theme=tokyonight&langs_count=10)|
+|![](https:/****/github-readme-stats.vercel.app/api?username=fahriztx&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)|![](https://github-readme-stats.vercel.app/api/top-langs/?username=fahriztx&layout=compact&theme=tokyonight&langs_count=10)|
 |-|-|
 
 <h2>Get in touch </h2>
