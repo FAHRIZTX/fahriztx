@@ -12,6 +12,7 @@
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
   <img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
+  <img src=https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg alt=docker width="30" height="30"/>
 </p>
 <p align="center">
 <a href="https://trakteer.id/fahriztx/tip" target="_blank"><img id="wse-buttons-preview" src="https://cdn.trakteer.id/images/embed/trbtn-blue-1.png?date=18-11-2023" height="40" style="border:0px;height:40px;" alt="Trakteer Saya"></a>
