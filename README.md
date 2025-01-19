@@ -24,9 +24,9 @@
 <h2>Get in touch </h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/fahriztx/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad Fahri-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/fahriztx_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fahriztx_-blue?style=flat-square&logo=instagram"></a>
-<a href="https://twitter.com/fahriztx_/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-fahriztx_-blue?style=flat-square&logo=x"></a>
+<a href="https://www.linkedin.com/in/fahriztx/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Muhammad Fahri-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/fahriztx_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-fahriztx_-blue?style=flat-square&logo=instagram"></a>
+<a href="https://twitter.com/fahriztx_/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-fahriztx_-blue?style=flat-square&logo=x"></a>
 </p>
 
 <h2>Donate</h2>
